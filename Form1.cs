@@ -4,6 +4,8 @@ namespace PowerballFinal
 {
     public partial class Form1 : Form
     {
+        //Dov Kimmel, ID: T00505770
+        //Yair Kimmel, ID: T00443600
         private PowerballModel model;
         List<int> userNumbers = new List<int>();
 
